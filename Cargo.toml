@@ -1,8 +1,10 @@
 [package]
 name = "wasm_backtrace"
 description = "Print backtraces within WASM"
+authors = ["Sebastian Schmidt <isibboi@gmail.com>"]
 version = "0.1.0"
 edition = "2024"
+license = "BSD-2-Clause"
 
 [dependencies]
 cfg-if = "1.0.0"
