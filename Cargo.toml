@@ -3,7 +3,7 @@ name = "wasm_backtrace"
 description = "Print backtraces within WASM"
 authors = ["Sebastian Schmidt <isibboi@gmail.com>"]
 repository = "https://github.com/ISibboI/wasm_backtrace"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "BSD-2-Clause"
 
